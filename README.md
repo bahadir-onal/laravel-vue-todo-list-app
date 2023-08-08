@@ -14,10 +14,15 @@ Bu proje, kullanıcıların yapılacakları listeleyebileceği ve işaretleyebil
 `git clone https://github.com/bahadir-onal/laravel-vue-todo-list-app.git`
 
 `cd proje-adı `
+
 `composer install `
+
 `cp .env.example .env `
+
 `php artisan key:generate `
+
 # .env dosyasını düzenleyerek veritabanı bağlantı ayarlarını yapın 
+
 `php artisan migrate`
 
 `php artisan serve`
@@ -48,7 +53,6 @@ This project is a Todo List application where users can list and mark their task
 -   Ability to add tasks to the todo list
 -   Ability to mark tasks as completed
 -   Ability to delete tasks
--   Ability to edit tasks
 
 ## Requirements
 
@@ -84,3 +88,7 @@ If you want to contribute to the project, please create a new branch, make your 
 
 
 ## bahadironal3@gmail.com
+
+![Ek Açıklama 2023-08-07 190819](https://github.com/bahadir-onal/laravel-vue-todo-list-app/assets/60795718/05e8523e-06fb-410a-a74f-37bfcae505e8)
+
+
